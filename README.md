@@ -1,2 +1,2 @@
 # myPractices
-Ruby Object Oriented Programming exercises
+Ruby OOP Exercises
